@@ -1,2 +1,4 @@
 # syllabus_project
-Syllabus for Data Analysts at Datamites
+Syllabus for _Data Analysts_ at **Datamites**
+
+1. Data Analytics Foundation
